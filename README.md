@@ -9,7 +9,7 @@
 ## 📷 Preview do projeto
 
 <div align="center">
-  <img width="855" alt="Ignite Github explorer" src=".github/banner.mp4"/>
+  <video width="855" alt="Ignite Github explorer" src=".github/banner.mp4"></video>
 </div>
 
 ## 🕵️ Sobre 
