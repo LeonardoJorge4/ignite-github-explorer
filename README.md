@@ -9,7 +9,7 @@
 ## 📷 Preview do projeto
 
 <div align="center">
-  <video width="855" alt="Ignite Github explorer" src=".github/banner.mp4"></video>
+  <video width="855" alt="Ignite Github explorer" src="https://github.com/LeonardoJorge4/ignite-github-explorer/assets/69438854/771f6274-e016-48a6-8364-edd478bdb783" />
 </div>
 
 ## 🕵️ Sobre 
