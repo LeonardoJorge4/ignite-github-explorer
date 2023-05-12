@@ -24,14 +24,21 @@ O projeto foi desenvolvido em um desafio do módulo 3 do Ignite React Native da 
 
 ✔ [React Native](https://reactnative.dev/)
 <br />
+✔ [Expo](https://expo.dev/)
+<br />
 ✔ [TypeScript](https://www.typescriptlang.org/)
 
 ## 🔍 Requisitos de software
 
-<li><a href="https://git-scm.com">Git</a></li>
-<li><a href="https://nodejs.org/en">Node.js</a></li>
-<li><a href="https://yarnpkg.com/">Yarn</a> ou <a href="https://www.npmjs.com/">NPM</a></li>
-<li><a href="=https://developer.android.com/studio">Android Studio</a></li>
+[Git](https://git-scm.com)
+<br />
+[Node.js](https://nodejs.org/en)
+<br />
+[Yarn](https://yarnpkg.com/) ou [NPM](https://www.npmjs.com/)
+<br />
+[Android Studio](https://developer.android.com/studio)
+<br />
+[Configuração de ambiente](https://react-native.rocketseat.dev/android/windows/#instalando-yarn-1)
 
 ## ⚙ Configurações
 
@@ -45,7 +52,11 @@ Para rodar o projeto, basta executar os seguintes comandos, em seu terminal com 
   cd ignite-github-explorer && yarn
 
   # Executar o projeto
-  yarn dev
+  yarn android # Android Studio
+
+  yarn ios # MacOS
+
+  expo start # Iniciar projeto com Expo
 ```
 
 ## 📝 Licença
